@@ -12,19 +12,19 @@ public class MartinezCristianMain {
     public static void main(String[] args) {
         // 1. Crear listas para los hobbies, comidas favoritas y datos curiosos.
         ArrayList<String> hobbies = new ArrayList<>();
-        hobbies.add("Leer libros");
-        hobbies.add("Jugar videojuegos");
-        hobbies.add("Correr");
+        hobbies.add("📖 Leer libros");
+        hobbies.add("🎮 Jugar videojuegos");
+        hobbies.add("🏃‍♀️ Correr");
 
         ArrayList<String> foods = new ArrayList<>();
-        foods.add("Pizza");
-        foods.add("Sushi");
-        foods.add("Helado");
+        foods.add("🍕 Pizza");
+        foods.add("🍣 Sushi");
+        foods.add("🍨 Helado");
 
         ArrayList<String> funFacts = new ArrayList<>();
-        funFacts.add("Me gustar ir al cine");
-        funFacts.add("Tengo miedo a las alturas");
-        funFacts.add("Es mi primer año en DAM");
+        funFacts.add("🎥 Me gustar ir al cine");
+        funFacts.add("🪂 Tengo miedo a las alturas");
+        funFacts.add("👨‍🎓 Es mi primer año en DAM");
 
         // 2.Crear un objeto de MartinezCristianPerfil usando el constructor.
         MartinezCristianPerfil perfil = new MartinezCristianPerfil(
